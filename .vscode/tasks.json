@@ -17,12 +17,20 @@
         },
 
         {
+<<<<<<< HEAD
             "label": "build-week01-Exercise1",
+=======
+            "label": "build-semana01-Exercicio1",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
+<<<<<<< HEAD
                 "${workspaceFolder}/week01/Exercise1/Exercise1.csproj",
+=======
+                "${workspaceFolder}/semana01/Exercicio1/Exercicio1.csproj",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -30,12 +38,20 @@
         },
 
         {
+<<<<<<< HEAD
             "label": "build-week01-Exercise2",
+=======
+            "label": "build-semana01-Exercicio2",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
+<<<<<<< HEAD
                 "${workspaceFolder}/week01/Exercise2/Exercise2.csproj",
+=======
+                "${workspaceFolder}/semana01/Exercicio2/Exercicio2.csproj",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -43,12 +59,20 @@
         },
 
         {
+<<<<<<< HEAD
             "label": "build-week01-Exercise3",
+=======
+            "label": "build-semana01-Exercicio3",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
+<<<<<<< HEAD
                 "${workspaceFolder}/week01/Exercise3/Exercise3.csproj",
+=======
+                "${workspaceFolder}/semana01/Exercicio3/Exercicio3.csproj",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -56,12 +80,20 @@
         },
 
         {
+<<<<<<< HEAD
             "label": "build-week01-Exercise4",
+=======
+            "label": "build-semana01-Exercicio4",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
+<<<<<<< HEAD
                 "${workspaceFolder}/week01/Exercise4/Exercise4.csproj",
+=======
+                "${workspaceFolder}/semana01/Exercicio4/Exercicio4.csproj",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -69,12 +101,20 @@
         },
 
         {
+<<<<<<< HEAD
             "label": "build-week01-Exercise5",
+=======
+            "label": "build-semana01-Exercicio5",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
+<<<<<<< HEAD
                 "${workspaceFolder}/week01/Exercise5/Exercise5.csproj",
+=======
+                "${workspaceFolder}/semana01/Exercicio5/Exercicio5.csproj",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -82,12 +122,20 @@
         },
 
         {
+<<<<<<< HEAD
             "label": "build-week02-Resumes",
+=======
+            "label": "build-semana02-Curriculo",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
+<<<<<<< HEAD
                 "${workspaceFolder}/week02/Resumes/Resumes.csproj",
+=======
+                "${workspaceFolder}/semana02/Curriculo/Curriculo.csproj",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -95,12 +143,20 @@
         },
 
         {
+<<<<<<< HEAD
             "label": "build-week02-Journal",
+=======
+            "label": "build-semana02-Diario",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
+<<<<<<< HEAD
                 "${workspaceFolder}/week02/Journal/Journal.csproj",
+=======
+                "${workspaceFolder}/semana02/Diario/Diario.csproj",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -108,12 +164,20 @@
         },
 
         {
+<<<<<<< HEAD
             "label": "build-week03-Fractions",
+=======
+            "label": "build-semana03-Fracoes",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
+<<<<<<< HEAD
                 "${workspaceFolder}/week03/Fractions/Fractions.csproj",
+=======
+                "${workspaceFolder}/semana03/Fracoes/Fracoes.csproj",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -121,12 +185,20 @@
         },
 
         {
+<<<<<<< HEAD
             "label": "build-week03-ScriptureMemorizer",
+=======
+            "label": "build-semana03-MemorizadorEscrituras",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
+<<<<<<< HEAD
                 "${workspaceFolder}/week03/ScriptureMemorizer/ScriptureMemorizer.csproj",
+=======
+                "${workspaceFolder}/semana03/MemorizadorEscrituras/MemorizadorEscrituras.csproj",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -134,12 +206,20 @@
         },
 
         {
+<<<<<<< HEAD
             "label": "build-week04-YouTubeVideos",
+=======
+            "label": "build-semana04-VideosYouTube",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
+<<<<<<< HEAD
                 "${workspaceFolder}/week04/YouTubeVideos/YouTubeVideos.csproj",
+=======
+                "${workspaceFolder}/semana04/VideosYouTube/VideosYouTube.csproj",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -147,12 +227,20 @@
         },
 
         {
+<<<<<<< HEAD
             "label": "build-week04-OnlineOrdering",
+=======
+            "label": "build-semana04-PedidosOnline",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
+<<<<<<< HEAD
                 "${workspaceFolder}/week04/OnlineOrdering/OnlineOrdering.csproj",
+=======
+                "${workspaceFolder}/semana04/PedidosOnline/PedidosOnline.csproj",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -160,12 +248,20 @@
         },
 
         {
+<<<<<<< HEAD
             "label": "build-week05-Homework",
+=======
+            "label": "build-semana05-Tarefas",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
+<<<<<<< HEAD
                 "${workspaceFolder}/week05/Homework/Homework.csproj",
+=======
+                "${workspaceFolder}/semana05/Tarefas/Tarefas.csproj",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -173,12 +269,20 @@
         },
 
         {
+<<<<<<< HEAD
             "label": "build-week05-Mindfulness",
+=======
+            "label": "build-semana05-Introspeccao",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
+<<<<<<< HEAD
                 "${workspaceFolder}/week05/Mindfulness/Mindfulness.csproj",
+=======
+                "${workspaceFolder}/semana05/Introspeccao/Introspeccao.csproj",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -186,12 +290,20 @@
         },
 
         {
+<<<<<<< HEAD
             "label": "build-week06-Shapes",
+=======
+            "label": "build-semana06-Figuras",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
+<<<<<<< HEAD
                 "${workspaceFolder}/week06/Shapes/Shapes.csproj",
+=======
+                "${workspaceFolder}/semana06/Figuras/Figuras.csproj",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -199,12 +311,20 @@
         },
 
         {
+<<<<<<< HEAD
             "label": "build-week06-EternalQuest",
+=======
+            "label": "build-semana06-MetasEternas",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
+<<<<<<< HEAD
                 "${workspaceFolder}/week06/EternalQuest/EternalQuest.csproj",
+=======
+                "${workspaceFolder}/semana06/MetasEternas/MetasEternas.csproj",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -212,12 +332,20 @@
         },
 
         {
+<<<<<<< HEAD
             "label": "build-week07-ExerciseTracking",
+=======
+            "label": "build-semana07-MonitoramentoExercicios",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
+<<<<<<< HEAD
                 "${workspaceFolder}/week07/ExerciseTracking/ExerciseTracking.csproj",
+=======
+                "${workspaceFolder}/semana07/MonitoramentoExercicios/MonitoramentoExercicios.csproj",
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],

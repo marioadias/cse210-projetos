@@ -1,10 +1,14 @@
 using System;
+<<<<<<< HEAD
 using System.Security.AccessControl;
+=======
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
 
 class Program
 {
     static void Main(string[] args)
     {
+<<<<<<< HEAD
         Console.WriteLine("OLá Mundo! This is the Sandbox Project.");
         Console.WriteLine("Isto está em C#");
 
@@ -19,5 +23,8 @@ class Program
             Console.WriteLine($"O número é: {numero}");
             
         }
+=======
+        Console.WriteLine("Olá, Mundo! Este é o Projeto Sandbox.");
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
     }
 }

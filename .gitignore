@@ -10,7 +10,11 @@
 *.userosscache
 *.sln.docstates
 
+<<<<<<< HEAD
 # User-specific files (MonoDevelop/Xamarin Studio)
+=======
+# User-specific files (MonoDesenvolver/Xamarin Studio)
+>>>>>>> c1412e2f25b8d1dc1deb7169547d0f16b8978995
 *.userprefs
 
 # Mono auto generated files
